@@ -11,6 +11,5 @@ def createExcel():
     }
     df=pd.DataFrame(data)
     df.to_excel("output_file.xlsx",index=False)
-    print("Excel file created succesfully!!!")
 if __name__=="__main__":
     createExcel()

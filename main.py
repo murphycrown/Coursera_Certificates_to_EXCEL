@@ -3,6 +3,7 @@ from request import makeRequest
 from soup import linkextract
 from request import makeRequestLink 
 from soup import verificationlinkSaver
+from createExcel import createExcel
 import json
 import math
 num=int(input('How many certificates you have:'))
@@ -25,4 +26,7 @@ with open('target_urls.txt','r') as file:
     context=json.loads(response)
     verificationlinkSaver(context)
 print("Verification links are saved")
+print("Generating Excel file ....")
+createExcel()
+print("Excel file created succesfully!!!")
 
