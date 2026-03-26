@@ -35,6 +35,5 @@ Verification links are saved
 Generating Excel file ....
 Excel file created succesfully!!!
 ```
-**1**.Enter the number of certificates you have
-
-**2**.Enter the coursera session cookie 
+# Finally
+**'output_file.xlsx' is saved and you can find it at the root of your project**
