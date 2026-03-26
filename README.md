@@ -12,13 +12,13 @@ A Python-based tool designed to automate the extraction of Coursera accomplishme
    ```
 
 
-##Usage
+## Usage
 
-First, install the  requirements:
+**First, install the  requirements:**
 
 `pip install -r requirements.txt`
 
-Run the project:
+**Run the project:**
 
 `python main.py`
 
