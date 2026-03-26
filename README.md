@@ -29,11 +29,12 @@ A Python-based tool designed to automate the extraction of Coursera accomplishme
 How many certificates you have: [PASTE_HERE]
 Enter your Coursera Cookie: [PASTE_HERE]
 Process starting....
-Certificates' names and target_urls are saved
+Certificates' names and target_urls saved
 Verification links' saving is starting.....
-Verification links are saved
+Verification links saved
 Generating Excel file ....
 Excel file created succesfully!!!
 ```
-# Finally
-**'output_file.xlsx' is saved and you can find it at the root of your project**
+# ✅ Output
+
+**Once the process finishes, the file output_file.xlsx will be saved at the root of your project directory. Please check the file for any inconsistencies.**
