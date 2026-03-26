@@ -1,6 +1,17 @@
-This repo is focused on creating excel file of coursera certificates.You can create it by just entering cookie and the number of certificates you have
+# Coursera Certificates to Excel 🎓📊
 
-#Usage
+A Python-based tool designed to automate the extraction of Coursera accomplishment data(certificates) and export it into a structured Excel format.
+
+
+## 🛠 Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/murphycrown/Coursera_Certificates_to_EXCEL.git](https://github.com/murphycrown/Coursera_Certificates_to_EXCEL.git)
+   cd Coursera_Certificates_to_EXCEL
+
+
+##Usage
 
 First, install the  requirements:
 
@@ -9,3 +20,7 @@ First, install the  requirements:
 Run the project:
 
 `python main.py`
+
+**1**.Enter the number of certificates you have
+
+**2**.Enter the coursera session cookie 
