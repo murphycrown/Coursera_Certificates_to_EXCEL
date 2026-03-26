@@ -9,6 +9,7 @@ A Python-based tool designed to automate the extraction of Coursera accomplishme
    ```bash
    git clone [https://github.com/murphycrown/Coursera_Certificates_to_EXCEL.git](https://github.com/murphycrown/Coursera_Certificates_to_EXCEL.git)
    cd Coursera_Certificates_to_EXCEL
+   ```
 
 
 ##Usage
